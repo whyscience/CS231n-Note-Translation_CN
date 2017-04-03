@@ -1,6 +1,10 @@
-[Source](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit "Permalink to CS231n课程笔记翻译：Python Numpy教程 - 知乎专栏")
-
 # CS231n课程笔记翻译：Python Numpy教程 - 知乎专栏
+
+
+
+![](https://pic1.zhimg.com/56fe9d4b74ec164413a54bc57889c480_r.jpg)
+
+[杜客][6] [Source](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit "Permalink to CS231n课程笔记翻译：Python Numpy教程 - 知乎专栏")
 
 **译者注**：本文[智能单元][1]首发，翻译自斯坦福CS231n课程笔记[Python Numpy Tutorial__][2]，由课程教师[Andrej Karpathy__][3]授权进行翻译。本篇教程由[杜客][4]翻译完成，[Flood Sung][5]、[SunisDown][6]、[巩子嘉][7]和一位不愿透露ID的知友对本翻译亦有贡献。
 
