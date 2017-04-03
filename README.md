@@ -22,7 +22,7 @@
 
 Github：https://github.com/cs231n/cs231n.github.io | http://cs231n.github.io/
 
-教学安排及大纲：Schedule and Syllabus
+教学安排及大纲：[Schedule and Syllabus](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 课程视频：Youtube上查看Andrej Karpathy创建的播放列表，或者网易云课堂
 
 课程pdf及视频下载：[百度网盘下载](https://pan.baidu.com/s/1eRHH4L8)，密码是4efx
@@ -32,6 +32,8 @@ CS231课程笔记翻译 https://zhuanlan.zhihu.com/intelligentunit
 
 这里是一个总结：http://www.jianshu.com/p/182baeb82c71, 主要参考的这里
 
-搬运过来，自己学习
+搬运过来，自己学习，内容属于原作者
+
+学习一点，搬运一点
 
 
